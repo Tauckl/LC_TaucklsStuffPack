@@ -12,7 +12,7 @@ namespace TaucklsStuffPack
     {
         private void Awake()
         {
-
+            // Awake method
         }
     }
 }
